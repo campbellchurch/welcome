@@ -1,5 +1,15 @@
+body, html {
+  background-color: #e4dfb8;
+  background-color: #FFF;
+}
+
+#header img {
+  width: 200px;
+}
+
 #app-container {
   margin: 50px;
+  color: #3e9c97;
 }
 
 /* for xlarge screens */
